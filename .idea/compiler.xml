@@ -6,13 +6,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="auto-configuration" />
+        <module name="custom-starter-test" />
         <module name="spring-boot-junit-rest-service" />
         <module name="spring-boot-quick-start" />
+        <module name="spring-boot-starter-site" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="auto-configuration" target="1.8" />
+      <module name="custom-starter-test" target="1.8" />
       <module name="spring-boot-junit-rest-service" target="1.8" />
       <module name="spring-boot-quick-start" target="1.8" />
+      <module name="spring-boot-starter-site" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/auto-configuration/auto-configuration.iml" filepath="$PROJECT_DIR$/auto-configuration/auto-configuration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/custom-starter-test/custom-starter-test.iml" filepath="$PROJECT_DIR$/custom-starter-test/custom-starter-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-junit-rest-service/spring-boot-junit-rest-service.iml" filepath="$PROJECT_DIR$/spring-boot-junit-rest-service/spring-boot-junit-rest-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-quick-start/spring-boot-quick-start.iml" filepath="$PROJECT_DIR$/spring-boot-quick-start/spring-boot-quick-start.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring-boot-quick-start/spring-boot-quick-start.iml" filepath="$PROJECT_DIR$/spring-boot-quick-start/spring-boot-quick-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-starter-site/spring-boot-starter-site.iml" filepath="$PROJECT_DIR$/spring-boot-starter-site/spring-boot-starter-site.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring_boot_2.0_tutorial.iml" filepath="$PROJECT_DIR$/.idea/spring_boot_2.0_tutorial.iml" />
     </modules>
   </component>

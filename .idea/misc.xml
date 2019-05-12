@@ -75,6 +75,9 @@
       <list>
         <option value="$PROJECT_DIR$/spring-boot-quick-start/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-junit-rest-service/pom.xml" />
+        <option value="$PROJECT_DIR$/auto-configuration/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-starter-site/pom.xml" />
+        <option value="$PROJECT_DIR$/custom-starter-test/pom.xml" />
       </list>
     </option>
   </component>
